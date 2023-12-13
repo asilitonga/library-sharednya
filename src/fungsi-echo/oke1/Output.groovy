@@ -1,5 +1,5 @@
 //kita panggil dulu namafolder project kita
-package fungsi-echo.materi-echo;
+package fungsi-echo.oke1;
 
 //buat classnya dulu
 //baru static def
