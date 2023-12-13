@@ -5,6 +5,6 @@ package classpertama.classnya;
 //baru static def
 class Output {
     static def hello(steps, String name) {
-        echo("Hello ${name}")
+        steps.echo("Hello ${name}")
     }
 }
