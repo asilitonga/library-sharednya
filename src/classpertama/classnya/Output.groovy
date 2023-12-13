@@ -4,7 +4,7 @@ package classpertama.classnya;
 //buat classnya dulu
 //baru static def
 class Output {
-    static def hello(String name) {
-        println("Hello ${name}")
+    static def hello(steps, String name) {
+        echo("Hello ${name}")
     }
 }
