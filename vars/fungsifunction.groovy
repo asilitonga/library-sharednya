@@ -5,3 +5,7 @@ def name() {
 def role() {
     "Junior Devops"
 }
+
+def all {
+    "Yok bisa yok wawancara"
+}
