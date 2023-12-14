@@ -6,6 +6,6 @@ def role() {
     "Junior Devops"
 }
 
-def all {
+def all() {
     "Yok bisa yok wawancara"
 }
