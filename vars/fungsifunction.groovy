@@ -6,6 +6,6 @@ def role() {
     "Junior Devops"
 }
 
-def all() {
+def call() {
     "Yok bisa yok wawancara"
 }
