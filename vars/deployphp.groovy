@@ -1,7 +1,7 @@
 //menyimpan kode pipeline di folder: vars menggunakan function
 //jangan lupa, buat function: call aja, biar langsung dipanggil
 //panggil filenya melalui Jenkinsfile
-deff call() {
+def call() {
     pipeline {
         agent any
         stages {
@@ -75,4 +75,4 @@ deff call() {
             }
         }
     }
-}
+} 
