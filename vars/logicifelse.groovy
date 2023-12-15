@@ -1,5 +1,5 @@
 def call (Map config) {
-    if(config.type = "deploy") {
+    if(config.type == "deploy") {
         deployphp();
     }
 } 
