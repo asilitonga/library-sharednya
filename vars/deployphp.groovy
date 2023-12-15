@@ -2,6 +2,9 @@
 //jangan lupa, buat function: call aja, biar langsung dipanggil
 //panggil filenya melalui Jenkinsfile
 
+//menggunakan shared library dari folder: src
+import classpertama.classnya.Output;
+
 def call() {
     pipeline {
         agent any
