@@ -1,3 +1,5 @@
+//menggunakan shared library dari folder: src
+import classpertama.classnya.Output;
 def call (Map config) {
     if(config.type == "deploy") {
         deployphp();
